@@ -75,7 +75,7 @@ export default function Home() {
   return (
     <div className="">
       <Head>
-        <title>Generate Color Palette with Next.js</title>
+        <title>Kabarak- Generate Color Palette with Next.js</title>
         <meta
           name="description"
           content="Generate Color Palette with Next.js"
